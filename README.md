@@ -4,7 +4,7 @@ Hi 👋 My name is Gabriel Catani
 Developer l Node l React
 ------------------------
 
-Passionate about technology and working for 2 years in companies with e-commerce main project.
+Passionate about technology and working for 2 years in companies with e-commerce using React/ReactNative/Node.
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/gabriel-catani-9bb13620b/)
