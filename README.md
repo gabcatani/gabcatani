@@ -10,7 +10,7 @@ Passionate about technology and working for years in tech companies, [ React/Rea
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/gabriel-catani-9bb13620b/)
 * ✉️  You can contact me at [contatogcatani@gmail.com](mailto:contatogcatani@gmail.com)
 * 🚀  I'm currently working on [Mercafacil](http://https://mercafacil.com/)
-* 🧠  I'm learning Next l React Native
+* 🧠  I'm learning Next l React Native | Nest
 * 🤝  I'm open to collaborating on New and Open Sources Projects
 * ⚡  ”The best way to predict the future is to work for it.”
 
