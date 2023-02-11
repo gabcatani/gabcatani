@@ -1,7 +1,7 @@
 Software Engineer
 ------------------------
 
-Passionate about technology.
+Passionate about technology
 
 ### Skills
 
