@@ -7,7 +7,7 @@ Passionate about technology.
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/gabriel-catani-9bb13620b/)
 * ✉️  You can contact me at [contatogcatani@gmail.com](mailto:contatogcatani@gmail.com)
 * 🚀  I'm currently working on [Mercafacil](http://https://mercafacil.com/)
-* 🤝  I'm open to collaborating on New and Open Sources Projects
+* 🤝  Collaborating on Open Sources Projects
 
 ### Skills
 
